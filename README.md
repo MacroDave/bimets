@@ -1,2 +1,2 @@
 # bimets
-MARTIN Macro Model in R
+Playing around with the bimets package in R
