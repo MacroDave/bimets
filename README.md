@@ -1,2 +1,2 @@
 # bimets
-Playing around with the bimets package in R
+Estimating the RBA MARTIN model in R using the bimets package.
