@@ -217,8 +217,8 @@ MARTIN=ESTIMATE(MARTIN)
 
 #simulate model
 MARTIN <- SIMULATE(MARTIN
-                 ,simType='STATIC'
-                 ,TSRANGE=c(2010,1,2019,3)
+                 ,simType='DYNAMIC'
+                 ,TSRANGE=c(2017,2,2019,3)
                  ,simConvergence=0.00001
                  ,simIterLimit=100)
 
