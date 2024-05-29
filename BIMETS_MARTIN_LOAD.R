@@ -1,4 +1,4 @@
-library(bimets); library(xts); library(dplyr); library(readxl)
+library(bimets); library(xts); library(dplyr); library(readxl); library(ggplot2);
 setwd("C:\\Users\\wb398198\\Desktop\\OFFLINE\\bimets")
 
 #Load data from CSV file and convert into bimets friendly list
